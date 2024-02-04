@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+title: The Trumpet and Motor Driver Blog
+
+<img src="https://github.com/nordstream3/my_blog/assets/129880401/e4345e31-9cc8-48a1-9788-88d4e89bb11d" width="400" style="float:left; margin-right:10px;">
+
+
 ---
 
